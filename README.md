@@ -25,5 +25,12 @@ This is the project I did for my personal research paper. Insights for a Seattle
 ![airbnbDashboard](https://github.com/synnguyen/portfolio/assets/168029185/fece8638-a6ba-4667-94cf-e958253a0f3b)
 
 
-### [PowerBI Project: discription] (link)
+### Project - Data Analyst Survey Dashboard- PowerBI (link)
+
+This is for my personal project, where I used real data collected from survey by data professionals. About 630 survey takers and discovers the gender, race breakdown, job title distribution, income, and level of difficulties at work, etc. are presented in the dashboard.
+
+* Data: Data from Survey
+* Performed Data Analysis of Real Survey by transformed data using Power Query and create Visualizations, dashboard with key insights.
+
+  
 
