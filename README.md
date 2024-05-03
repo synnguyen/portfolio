@@ -32,5 +32,6 @@ This is for my personal project, where I used real data collected from survey by
 * Data: Data from Survey
 * Performed Data Analysis of Real Survey by transformed data using Power Query and create Visualizations, dashboard with key insights.
 
-  
+![surveyDashboard](https://github.com/synnguyen/portfolio/assets/168029185/ec0fabbf-6090-4509-bc7e-6f1765a4091a)
+
 
