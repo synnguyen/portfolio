@@ -2,7 +2,10 @@
 
 ### [Excel Project: discription] (link)
 
+This was the project I did for my personal research paper, where I build a recommendation system for a airbnb dataset.
 
+*Data was taken from the online dataset
+*
 
 ### [SQL Project: discription] (link)
 
