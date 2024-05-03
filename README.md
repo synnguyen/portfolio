@@ -22,6 +22,7 @@ This is the project I did for my personal research paper. Insights for a Seattle
 *This public dataset was taken from Kaggle.
 *Performed Data Analysis of Airbnb Home Listings in Seattle with different type of visualizations and dashboard.
 
+![airbnbDashboard](https://github.com/synnguyen/portfolio/assets/168029185/fece8638-a6ba-4667-94cf-e958253a0f3b)
 
 
 ### [PowerBI Project: discription] (link)
