@@ -1,6 +1,6 @@
 # Analytics portfolio
 
-### Project - Bike Sales Dashboard - Excel (link)
+### Project - Bike Sales Dashboard - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 This was the project I did for my personal research paper, where I performed the data cleaning process, pivot table, and dashboard creation in Excel for a bike sales dataset.
 
@@ -11,8 +11,9 @@ This was the project I did for my personal research paper, where I performed the
 ![bikeDashboard](https://github.com/synnguyen/portfolio/assets/168029185/c6b50375-fa2a-4e9a-a85f-6fd0f7f79f2d)
 
 
-### Project - CoffeeShop Analysis - SQL (link)
+### Project - CoffeeShop Analysis - SQL (https://github.com/synnguyen/sql/tree/main/SQL_coffeeProject)
 
+In this project, I used a dataset found online to analyze the differentiate between coffee shops across the world. I created a big table by joining multiple tables together and using queries to perfom data cleaning. I categorized the shops by locations and what coffee types, suppliers they are using.  
 
 
 ### Project - Seattle Airbnb Dashboard - Tableau (https://public.tableau.com/app/profile/song.nguyen5218/viz/airbnbfullproject_17122565353140/Dashboard1)
@@ -25,7 +26,7 @@ This is the project I did for my personal research paper. Insights for a Seattle
 ![airbnbDashboard](https://github.com/synnguyen/portfolio/assets/168029185/fece8638-a6ba-4667-94cf-e958253a0f3b)
 
 
-### Project - Data Analyst Survey Dashboard- PowerBI (link)
+### Project - Data Analyst Survey Dashboard- PowerBI (https://github.com/synnguyen/powerbi/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 This is for my personal project, where I used real data collected from survey by data professionals. About 630 survey takers and discovers the gender, race breakdown, job title distribution, income, and level of difficulties at work, etc. are presented in the dashboard.
 
