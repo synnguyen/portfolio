@@ -1,6 +1,6 @@
 # Analytics portfolio
 
-### Project - Bike Sales Dashboard - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
+### Project - Bike Sales Analysis - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 This was the project I did for my personal research paper, where I performed the data cleaning process, pivot table, and dashboard creation in Excel for a bike sales dataset.
 
@@ -16,7 +16,7 @@ This was the project I did for my personal research paper, where I performed the
 In this project, I used a dataset found online to analyze the differentiate between coffee shops across the world. I created a big table by joining multiple tables together and using queries to perfom data cleaning. I categorized the shops by locations and what coffee types, suppliers they are using.  
 
 
-### Project - Seattle Airbnb Dashboard - Tableau (https://public.tableau.com/app/profile/song.nguyen5218/viz/airbnbfullproject_17122565353140/Dashboard1)
+### Project - Seattle Airbnb Analysis - Tableau (https://public.tableau.com/app/profile/song.nguyen5218/viz/airbnbfullproject_17122565353140/Dashboard1)
 
 This is the project I did for my personal research paper. Insights for a Seattle Airbnb dataset as Revenue for 2016, Average Price per Bedroom, and Price per Zipcode, etc. are represted in the dashboard.
 
@@ -26,7 +26,7 @@ This is the project I did for my personal research paper. Insights for a Seattle
 ![airbnbDashboard](https://github.com/synnguyen/portfolio/assets/168029185/fece8638-a6ba-4667-94cf-e958253a0f3b)
 
 
-### Project - Data Analyst Survey Dashboard- PowerBI (https://github.com/synnguyen/powerbi/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+### Project - Data Analysts Survey - PowerBI (https://github.com/synnguyen/powerbi/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 This is for my personal project, where I used real data collected from survey by data professionals. About 630 survey takers and discovers the gender, race breakdown, job title distribution, income, and level of difficulties at work, etc. are presented in the dashboard.
 
