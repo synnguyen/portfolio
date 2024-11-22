@@ -1,5 +1,7 @@
 # Analytics portfolio
 
+### Project - Hotel Revenue Analysis - SQL and Power BI
+
 ### Project - Bike Sales Performance Analysis - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 This was the project I did for my personal research paper, where I performed the data cleaning process, pivot table, and dashboard creation in Excel for a bike sales dataset.
