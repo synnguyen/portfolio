@@ -8,7 +8,7 @@ The goal in this project is develop a database to analyze and visualize Hotel Bo
 * Should stakeholders increase the parking lot size?
 * What trends can we see in the data?
 
-
+![HotelRev](https://github.com/user-attachments/assets/15bf292f-2a13-42ca-a174-26ee2aeef7c4)
 
 ### Project - Bike Sales Performance Analysis - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
