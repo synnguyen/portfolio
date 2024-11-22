@@ -1,6 +1,6 @@
 # Analytics portfolio
 
-### Project - Hotel Revenue Analysis - SQL and Power BI
+### Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
 The goal in this project is develop a database to analyze and visualize Hotel Booking Data. I combined tables into one unified data set using SQL and built a visual data story or dashboard using Power BI to present to 3 questions:
 
