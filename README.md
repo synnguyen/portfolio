@@ -1,4 +1,6 @@
-# Analytics portfolio
+# Data Portfolio
+
+This is my porfolio website!
 
 ### Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
