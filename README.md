@@ -9,13 +9,33 @@ The goal is to help the marketing team make informed decisions about which Youtu
 * total views
 * total videos
 * engagement metrics
-## Objective
+## Data Source
 We need data on the top UK YouTubers in 2024 that includes their
 * channel names
 * total subscribers
 * total views
 * total videos uploaded
 Where is the data coming from? The data is sourced from Kaggle (an Excel extract), [here](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download).
+## Tools
+| Tool | Purpose |
+| --- | --- |
+| Excel | Exploring the data |
+| Python | Pulling data from Youtube API for each channel ID |
+| SQL Server | Cleaning, testing, and analyzing the data |
+| Power BI | Visualizing the data via interactive dashboards |
+| Github | Hosting the project documentation and version control |
+## Visualization
+### Results
+
+
+## Analysis
+* the top 10 Youtubers with the most subscribers
+* 3 channels have uploads the most videos
+* 3 channels have the most views
+* 3 channels have the highest average views per video
+* 3 channels have the highest views per subscriber ratio
+* 3 channels have the highest subscriber engagement rate per video uploaded
+
 
 ### Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
