@@ -1,22 +1,22 @@
 # Data Portfolio
 
 This is my porfolio website!
-### Project - Top United States Youtubers 2024 - Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
-## Objective
+## Project - Top United States Youtubers 2024 - Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
+### Objective
 The goal is to help the marketing team make informed decisions about which Youtubers to collaborate with their amrketing campaigns by creating a dashboard that provides insights into the top US Youtubers in 2024 that includes their
 * channel name
 * subscriber count
 * total views
 * total videos
 * engagement metrics
-## Data Source
+### Data Source
 We need data on the top UK YouTubers in 2024 that includes their
 * channel names
 * total subscribers
 * total views
 * total videos uploaded
 Where is the data coming from? The data is sourced from Kaggle (an Excel extract), [here](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download).
-## Tools
+### Tools
 | Tool | Purpose |
 | --- | --- |
 | Excel | Exploring the data |
@@ -24,11 +24,11 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | SQL Server | Cleaning, testing, and analyzing the data |
 | Power BI | Visualizing the data via interactive dashboards |
 | Github | Hosting the project documentation and version control |
-## Visualization
+### Visualization
 ### Results
 ![Image](https://github.com/user-attachments/assets/a8807773-c97d-49c8-969d-8d053dac4791)
 
-## Analysis
+### Analysis
 * the top 10 Youtubers with the most subscribers
 * 3 channels have uploads the most videos
 * 3 channels have the most views
@@ -37,7 +37,7 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 * 3 channels have the highest subscriber engagement rate per video uploaded
 
 
-### Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
+## Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
 The goal in this project is develop a database to analyze and visualize Hotel Booking Data. I combined tables into one unified data set using SQL and built a visual data story or dashboard using Power BI to present to 3 questions:
 
@@ -47,7 +47,7 @@ The goal in this project is develop a database to analyze and visualize Hotel Bo
 
 ![HotelRev](https://github.com/user-attachments/assets/15bf292f-2a13-42ca-a174-26ee2aeef7c4)
 
-### Project - Bike Sales Performance Analysis - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
+## Project - Bike Sales Performance Analysis - Excel (https://github.com/synnguyen/excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 This was the project I did for my personal research paper, where I performed the data cleaning process, pivot table, and dashboard creation in Excel for a bike sales dataset.
 
@@ -58,12 +58,12 @@ This was the project I did for my personal research paper, where I performed the
 ![bikeDashboard](https://github.com/synnguyen/portfolio/assets/168029185/c6b50375-fa2a-4e9a-a85f-6fd0f7f79f2d)
 
 
-### Project - CoffeeShop Analysis - SQL (https://github.com/synnguyen/sql/tree/main/SQL_coffeeProject)
+## Project - CoffeeShop Analysis - SQL (https://github.com/synnguyen/sql/tree/main/SQL_coffeeProject)
 
 In this project, I used a dataset found online to analyze the differentiate between coffee shops across the world. I created a big table by joining multiple tables together and using queries to perfom data cleaning. I categorized the shops by locations and what coffee types, suppliers they are using.  
 
 
-### Project - Seattle Airbnb Analysis - Tableau (https://public.tableau.com/app/profile/song.nguyen5218/viz/airbnbfullproject_17122565353140/Dashboard1)
+## Project - Seattle Airbnb Analysis - Tableau (https://public.tableau.com/app/profile/song.nguyen5218/viz/airbnbfullproject_17122565353140/Dashboard1)
 
 This is the project I did for my personal research paper. Insights for a Seattle Airbnb dataset as Revenue for 2016, Average Price per Bedroom, and Price per Zipcode, etc. are represted in the dashboard.
 
@@ -73,7 +73,7 @@ This is the project I did for my personal research paper. Insights for a Seattle
 ![airbnbDashboard](https://github.com/synnguyen/portfolio/assets/168029185/fece8638-a6ba-4667-94cf-e958253a0f3b)
 
 
-### Project - Data Analysts Survey - PowerBI (https://github.com/synnguyen/powerbi/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+## Project - Data Analysts Survey - PowerBI (https://github.com/synnguyen/powerbi/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 This is for my personal project, where I used real data collected from survey by data professionals. About 630 survey takers and discovers the gender, race breakdown, job title distribution, income, and level of difficulties at work, etc. are presented in the dashboard.
 
