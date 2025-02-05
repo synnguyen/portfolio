@@ -1,6 +1,21 @@
 # Data Portfolio
 
 This is my porfolio website!
+### Project - Top United States Youtubers 2024 - Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
+## Objective
+The goal is to help the marketing team make informed decisions about which Youtubers to collaborate with their amrketing campaigns by creating a dashboard that provides insights into the top US Youtubers in 2024 that includes their
+* channel name
+* subscriber count
+* total views
+* total videos
+* engagement metrics
+## Objective
+We need data on the top UK YouTubers in 2024 that includes their
+* channel names
+* total subscribers
+* total views
+* total videos uploaded
+Where is the data coming from? The data is sourced from Kaggle (an Excel extract), [here](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download).
 
 ### Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
