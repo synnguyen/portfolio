@@ -30,6 +30,9 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 
 ### Analysis
 * the top 10 Youtubers with the most subscribers
+| Rank | Channel Name | Subscribers (M) |
+| --- | --- |
+| 1 | Exploring the data | Exploring the data |
 * 3 channels have uploads the most videos
 * 3 channels have the most views
 * 3 channels have the highest average views per video
