@@ -18,6 +18,7 @@ The goal is to help the marketing team make informed decisions about which Youtu
 * total views
 * total videos
 * engagement metrics
+  
 ### Data Source
 We need data on the top UK YouTubers in 2024 that includes their
 * channel names
@@ -25,6 +26,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 * total views
 * total videos uploaded
 Where is the data coming from? The data is sourced from Kaggle (an Excel extract), [here](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download).
+
 ### Tools
 | Tool | Purpose |
 | --- | --- |
@@ -33,16 +35,24 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | SQL Server | Cleaning, testing, and analyzing the data |
 | Power BI | Visualizing the data via interactive dashboards |
 | Github | Hosting the project documentation and version control |
+
 ### Visualization
 #### Results
 ![Image](https://github.com/user-attachments/assets/a789bfd5-c64b-4ce8-8089-ce528e4191b2)
 #### DAX Measures
 ##### 1. Total Subscribers (M)
+![Image](https://github.com/user-attachments/assets/09744a95-883f-41f5-9414-e468210c501f)
 ##### 2. Total Views
+![Image](https://github.com/user-attachments/assets/0112b92f-683d-46a4-9828-65247013686d)
 ##### 3. Total Videos
+![Image](https://github.com/user-attachments/assets/095883ff-422d-4d2c-855a-f80e8106c3f9)
 ##### 4. Average Views Per Videos
+![Image](https://github.com/user-attachments/assets/83f4a2b2-7f70-42e2-b3fb-daeb618d5e23)
 ##### 5. Subscriber Engagement Rate
+![Image](https://github.com/user-attachments/assets/88b3c71e-d93c-449b-a301-7955b5a827a6)
 ##### 6. Views Per Subscribers
+![Image](https://github.com/user-attachments/assets/154ef554-2d01-4d6c-b39b-96a93b3ce5c4)
+
 ### Analysis
 * the top 10 Youtubers with the most subscribers
 | Rank | Channel Name | Subscribers (M) |
