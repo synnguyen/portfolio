@@ -1,7 +1,16 @@
-# Data Portfolio
+# Nhi Song Yen Nguyen
 
 This is my porfolio website!
-## Project - Top United States Youtubers 2024 - Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
+## Project - Top United States Youtubers 2024 - Excel, Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
+##  Table of contents
+
+- [Objective](#Objective)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Visualization](#visulization)
+- [Results](#results)
+- [Analysis](#analysis)
+
 ### Objective
 The goal is to help the marketing team make informed decisions about which Youtubers to collaborate with their amrketing campaigns by creating a dashboard that provides insights into the top US Youtubers in 2024 that includes their
 * channel name
@@ -26,7 +35,7 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | Github | Hosting the project documentation and version control |
 ### Visualization
 ### Results
-![Image](https://github.com/user-attachments/assets/a8807773-c97d-49c8-969d-8d053dac4791)
+
 
 ### Analysis
 * the top 10 Youtubers with the most subscribers
