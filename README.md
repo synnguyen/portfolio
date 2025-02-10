@@ -8,7 +8,7 @@ This is my porfolio website!
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Visualization](#visulization)
-- [Results](#results)
+  - [Results](#results)
 - [Analysis](#analysis)
 
 ### Objective
@@ -34,9 +34,15 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | Power BI | Visualizing the data via interactive dashboards |
 | Github | Hosting the project documentation and version control |
 ### Visualization
-### Results
-
-
+#### Results
+![Image](https://github.com/user-attachments/assets/a789bfd5-c64b-4ce8-8089-ce528e4191b2)
+#### DAX Measures
+#####1. Total Subscribers (M)
+#####2. Total Views
+#####3. Total Videos
+#####4. Average Views Per Videos
+#####5. Subscriber Engagement Rate
+#####6. Views Per Subscribers
 ### Analysis
 * the top 10 Youtubers with the most subscribers
 | Rank | Channel Name | Subscribers (M) |
