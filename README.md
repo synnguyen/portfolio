@@ -41,23 +41,20 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 ![Image](https://github.com/user-attachments/assets/a789bfd5-c64b-4ce8-8089-ce528e4191b2)
 #### DAX Measures
 ##### 1. Total Subscribers (M)
-![Image](https://github.com/user-attachments/assets/09744a95-883f-41f5-9414-e468210c501f)
+  ![Image](https://github.com/user-attachments/assets/09744a95-883f-41f5-9414-e468210c501f)
 ##### 2. Total Views
-![Image](https://github.com/user-attachments/assets/0112b92f-683d-46a4-9828-65247013686d)
+  ![Image](https://github.com/user-attachments/assets/0112b92f-683d-46a4-9828-65247013686d)
 ##### 3. Total Videos
-![Image](https://github.com/user-attachments/assets/095883ff-422d-4d2c-855a-f80e8106c3f9)
+  ![Image](https://github.com/user-attachments/assets/095883ff-422d-4d2c-855a-f80e8106c3f9)
 ##### 4. Average Views Per Videos
-![Image](https://github.com/user-attachments/assets/83f4a2b2-7f70-42e2-b3fb-daeb618d5e23)
+  ![Image](https://github.com/user-attachments/assets/83f4a2b2-7f70-42e2-b3fb-daeb618d5e23)
 ##### 5. Subscriber Engagement Rate
-![Image](https://github.com/user-attachments/assets/88b3c71e-d93c-449b-a301-7955b5a827a6)
+  ![Image](https://github.com/user-attachments/assets/88b3c71e-d93c-449b-a301-7955b5a827a6)
 ##### 6. Views Per Subscribers
-![Image](https://github.com/user-attachments/assets/154ef554-2d01-4d6c-b39b-96a93b3ce5c4)
+  ![Image](https://github.com/user-attachments/assets/154ef554-2d01-4d6c-b39b-96a93b3ce5c4)
 
 ### Analysis
 * the top 10 Youtubers with the most subscribers
-| Rank | Channel Name | Subscribers (M) |
-| --- | --- |
-| 1 | Exploring the data | Exploring the data |
 * 3 channels have uploads the most videos
 * 3 channels have the most views
 * 3 channels have the highest average views per video
