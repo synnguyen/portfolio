@@ -2,7 +2,7 @@
 
 This is my porfolio website!
 ## Project - Top United States Youtubers 2024 - Excel, Python, SQL, and Power BI (https://github.com/synnguyen/portfolio/tree/main/top_us_youtuber_2024_Project)
-##  Table of contents
+###  Table of contents
 
 - [Objective](#Objective)
 - [Data Source](#data-source)
