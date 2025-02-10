@@ -20,7 +20,7 @@ The goal is to help the marketing team make informed decisions about which Youtu
 * engagement metrics
   
 ### Data Source
-We need data on the top UK YouTubers in 2024 that includes their
+We need data on the top US YouTubers in 2024 that includes their
 * channel names
 * total subscribers
 * total views
