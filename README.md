@@ -55,12 +55,53 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 
 ### Analysis
 * the top 10 Youtubers with the most subscribers
-* 3 channels have uploads the most videos
-* 3 channels have the most views
-* 3 channels have the highest average views per video
-* 3 channels have the highest views per subscriber ratio
-* 3 channels have the highest subscriber engagement rate per video uploaded
+| Rank | Channel Name | Subscribers (M) |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | Cocomelon - Nursery Rhymes | 189.00 |
+| 3 | Vlad and Niki | 133.00 |
+| 4 | Kids Diana Show | 130.00 |
+| 5 | Like Nastya | 125.00 |
+| 6 | Stokes Twins | 112.00 |
+| 7 | 5-Minute Crafts | 81.10 |
+| 8 | Baby Shark - Pinkfong Kid's Song and Stories | 80.20 |
+| 9 | Alan Chikin Chow | 78.00 |
+| 10 | A4 | 74.60 |
 
+* 3 channels have uploads the most videos
+| Rank | Channel Name | Video Uploaded |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | MrBeast | 357.00 |
+| 3 | MrBeast | 357.00 |
+
+* 3 channels have the most views
+| Rank | Channel Name | Video Uploaded |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | MrBeast | 357.00 |
+| 3 | MrBeast | 357.00 |
+  
+* 3 channels have the highest average views per video
+| Rank | Channel Name | Video Uploaded |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | MrBeast | 357.00 |
+| 3 | MrBeast | 357.00 |
+
+* 3 channels have the highest views per subscriber ratio
+| Rank | Channel Name | Video Uploaded |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | MrBeast | 357.00 |
+| 3 | MrBeast | 357.00 |
+
+* 3 channels have the highest subscriber engagement rate per video uploaded
+| Rank | Channel Name | Video Uploaded |
+| --- | --- | --- |
+| 1 | MrBeast | 357.00 |
+| 2 | MrBeast | 357.00 |
+| 3 | MrBeast | 357.00 |
 
 ## Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
