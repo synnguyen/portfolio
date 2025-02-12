@@ -54,7 +54,7 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
   ![Image](https://github.com/user-attachments/assets/154ef554-2d01-4d6c-b39b-96a93b3ce5c4)
 
 ### Analysis
-* the top 10 Youtubers with the most subscribers
+1. the top 10 Youtubers with the most subscribers
 | Rank | Channel Name | Subscribers (M) |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
@@ -68,35 +68,35 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | 9 | Alan Chikin Chow | 78.00 |
 | 10 | A4 | 74.60 |
 
-* 3 channels have uploads the most videos
+2. 3 channels have uploads the most videos
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
 | 2 | MrBeast | 357.00 |
 | 3 | MrBeast | 357.00 |
 
-* 3 channels have the most views
+3. 3 channels have the most views
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
 | 2 | MrBeast | 357.00 |
 | 3 | MrBeast | 357.00 |
   
-* 3 channels have the highest average views per video
+4. 3 channels have the highest average views per video
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
 | 2 | MrBeast | 357.00 |
 | 3 | MrBeast | 357.00 |
 
-* 3 channels have the highest views per subscriber ratio
+5. 3 channels have the highest views per subscriber ratio
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
 | 2 | MrBeast | 357.00 |
 | 3 | MrBeast | 357.00 |
 
-* 3 channels have the highest subscriber engagement rate per video uploaded
+6. 3 channels have the highest subscriber engagement rate per video uploaded
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
 | 1 | MrBeast | 357.00 |
