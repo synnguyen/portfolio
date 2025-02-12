@@ -71,16 +71,16 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 #### 2. The top 3 channels have uploads the most videos
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
-| 1 | MrBeast | 357.00 |
-| 2 | MrBeast | 357.00 |
-| 3 | MrBeast | 357.00 |
+| 1 | Movieclips | 41990 |
+| 2 | TheEllen Show | 17650 |
+| 3 | LankyBox | 10460 |
 
 #### 3. The top 3 channels have the most views
-| Rank | Channel Name | Video Uploaded |
+| Rank | Channel Name | Views (B) |
 | --- | --- | --- |
-| 1 | MrBeast | 357.00 |
-| 2 | MrBeast | 357.00 |
-| 3 | MrBeast | 357.00 |
+| 1 | Cocomelon - Nursery Rhymes | 196.00 |
+| 2 | Kids Diana Show | 111.00 |
+| 3 | Like Nastya | 110.00 |
   
 #### 4. The top 3 channels have the highest average views per video
 | Rank | Channel Name | Video Uploaded |
