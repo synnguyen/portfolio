@@ -83,25 +83,25 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 | 3 | Like Nastya | 110.00 |
   
 #### 4. The top 3 channels have the highest average views per video
-| Rank | Channel Name | Video Uploaded |
+| Rank | Channel Name |Avg View Per Video (M) |
 | --- | --- | --- |
-| 1 | MrBeast | 357.00 |
-| 2 | MrBeast | 357.00 |
-| 3 | MrBeast | 357.00 |
+| 1 | Katy Perry | 161.52 |
+| 2 | Cocomelon - Nursery Rhymes | 138.03 |
+| 3 | Maroon 5 | 137.03 |
 
 #### 5. The top 3 channels have the highest views per subscriber ratio
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
-| 1 | MrBeast | 357.00 |
-| 2 | MrBeast | 357.00 |
-| 3 | MrBeast | 357.00 |
+| 1 | Topper Guild | 3,843.86 |
+| 2 | Ryan's World | 1,538.66 |
+| 3 | Toys and Colors | 1,214.69 |
 
 #### 6. the top 3 channels have the highest subscriber engagement rate per video uploaded
 | Rank | Channel Name | Video Uploaded |
 | --- | --- | --- |
-| 1 | MrBeast | 357.00 |
-| 2 | MrBeast | 357.00 |
-| 3 | MrBeast | 357.00 |
+| 1 | MrBeast | 422,985.78 |
+| 2 | Billie Eilish | 381,118.88 |
+| 3 | MrBeast 2 | 377,519.38 |
 
 ## Project - Hotel Revenue Analysis - SQL and Power BI (https://github.com/synnguyen/portfolio/tree/main/PowerBIProject/hotel_revenue_historical%20project)
 
